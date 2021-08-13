@@ -1,0 +1,1 @@
+# js-beginner--projrcts-stone-paper-scissors-auto-image-generator-
